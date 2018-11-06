@@ -31,7 +31,7 @@
   * 物联网
 
 * 语言分类
-  * golang
+  * [golang](language/golang.md)
   * c/c++
   * python
   * java
