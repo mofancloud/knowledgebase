@@ -19,6 +19,9 @@
   * 音视频
   * AI
   * WEB
+  * 移动
+    * Android
+    * iOS
   * 分布式系统
 
 * 应用领域
@@ -26,3 +29,21 @@
   * 电子商务
   * 游戏
   * 物联网
+
+* 语言分类
+  * golang
+  * c/c++
+  * python
+  * java
+  * kotlin
+  * nodejs
+  * [html/css](language/html+css.md)
+  * javascript
+  * lua
+  * rust
+  * php
+  * ruby
+  * groovy
+  * C#
+  * swift
+  * objective-c
