@@ -30,6 +30,7 @@
   * 电子商务
   * 游戏
   * 物联网
+  * [微服务](domain/microservice.md)
 
 * 语言分类
   * [golang](language/golang.md)
